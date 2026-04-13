@@ -69,7 +69,7 @@ print(df.head())
 | easy.viajes    | premium   | $123.75   | $123.75       | 128            | 68     | 4      | name.com                                 |
 | live.viajes    | available | $57.98    | —             | 108            | 56     | 4      | namecheap                                |
 | outlet.viajes  | resell    | —         | —             | 70             | 19     | 6      | GoDaddy.com, LLC                         |
-| free.viajes    | premium   | $250      | $250          | 88             | 59     | 4      | name.com                                 |
+| free.viajes    | premium   | $250      | $250          | 88             | 57     | 4      | name.com                                 |
 | good.viajes    | available | $57.98    | —             | 82             | 55     | 4      | namecheap                                |
 | Atacama.viajes | resell    | —         | —             | 62             | 8      | 7      | Go France Domains, LLC                   |
 | one.viajes     | premium   | $500      | $500          | 132            | 50     | 3      | name.com                                 |
@@ -77,11 +77,11 @@ print(df.head())
 | abc.viajes     | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap                                |
 | alpha.viajes   | available | $57.98    | —             | 90             | 53     | 5      | namecheap                                |
 | aaa.viajes     | premium   | $128.70   | $128.70       | 70             | 42     | 3      | namecheap                                |
-| fast.viajes    | available | $57.98    | —             | 82             | 53     | 4      | namecheap                                |
-| cool.viajes    | premium   | $123.75   | $123.75       | 76             | 38     | 4      | name.com                                 |
 | art.viajes     | available | $57.98    | —             | 90             | 52     | 3      | namecheap                                |
-| fitness.viajes | premium   | $128.70   | $128.70       | 78             | 36     | 7      | namecheap                                |
+| cool.viajes    | premium   | $123.75   | $123.75       | 76             | 38     | 4      | name.com                                 |
 | true.viajes    | available | $57.98    | —             | 86             | 52     | 4      | namecheap                                |
+| fitness.viajes | premium   | $128.70   | $128.70       | 78             | 36     | 7      | namecheap                                |
+| fast.viajes    | available | $57.98    | —             | 82             | 52     | 4      | namecheap                                |
 | tour.viajes    | premium   | $260      | $260          | 72             | 35     | 4      | namecheap                                |
 | game.viajes    | available | $57.98    | —             | 120            | 50     | 4      | namecheap                                |
 
