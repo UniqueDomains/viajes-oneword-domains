@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .viajes one-word domains from Uniq
 
 **Public extract:** 9,914 rows · **Live catalog:** 9,914 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/viajes`  
 **Best for:** founders, investors, studios
 
@@ -73,9 +73,9 @@ print(df.head())
 | good.viajes    | available | $57.98    | —             | 82             | 55     | 4      | namecheap                                |
 | Atacama.viajes | resell    | —         | —             | 62             | 8      | 7      | Go France Domains, LLC                   |
 | one.viajes     | premium   | $500      | $500          | 132            | 50     | 3      | name.com                                 |
-| alpha.viajes   | available | $57.98    | —             | 90             | 54     | 5      | namecheap                                |
-| abc.viajes     | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap                                |
 | zero.viajes    | available | $57.98    | —             | 112            | 53     | 4      | namecheap                                |
+| abc.viajes     | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap                                |
+| alpha.viajes   | available | $57.98    | —             | 90             | 53     | 5      | namecheap                                |
 | aaa.viajes     | premium   | $128.70   | $128.70       | 70             | 42     | 3      | namecheap                                |
 | fast.viajes    | available | $57.98    | —             | 82             | 53     | 4      | namecheap                                |
 | cool.viajes    | premium   | $123.75   | $123.75       | 76             | 38     | 4      | name.com                                 |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIAJES One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIAJES One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
