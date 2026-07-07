@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .viajes one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,895 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,895 domains · **Median ask:** $54.69 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,895 domains · **Median ask:** $44.09 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/viajes`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/viajes`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .VIAJES one-word domai
 
 ### Files
 
-- `viajes.csv` — public CSV extract (1,000 rows)
-- `viajes.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `viajes.csv`, public CSV extract (1,000 rows)
+- `viajes.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Books.viajes       | available | $57.98    | —             | 52             | 49     | 5      | namecheap |
-| jobs.viajes        | premium   | $500      | —             | 79             | 42     | 4      | name.com  |
-| skills.viajes      | available | $57.98    | —             | 58             | 47     | 6      | namecheap |
-| coins.viajes       | available | $57.98    | —             | 56             | 41     | 5      | namecheap |
-| Tools.viajes       | available | $57.98    | —             | 56             | 40     | 5      | namecheap |
-| homes.viajes       | available | $57.98    | —             | 86             | 34     | 5      | namecheap |
-| letsgo.viajes      | available | $57.98    | —             | 57             | 31     | 7      | namecheap |
-| maps.viajes        | available | $57.98    | —             | 56             | 31     | 4      | namecheap |
-| slots.viajes       | available | $37.99    | $37.99        | 49             | 31     | 5      | namesilo  |
-| inspiration.viajes | available | $57.98    | —             | 88             | 30     | 11     | namecheap |
-| rewards.viajes     | available | $37.99    | $37.99        | 62             | 30     | 7      | namesilo  |
-| spaces.viajes      | available | $57.98    | —             | 54             | 30     | 6      | namecheap |
-| SanDiego.viajes    | available | $37.99    | $37.99        | 74             | 29     | 9      | namesilo  |
-| cams.viajes        | available | $37.99    | $37.99        | 52             | 29     | 4      | namesilo  |
-| brands.viajes      | available | $57.98    | —             | 62             | 28     | 6      | namecheap |
-| KFC.viajes         | available | $57.98    | —             | 74             | 27     | 3      | namecheap |
-| bees.viajes        | available | $57.98    | —             | 54             | 27     | 4      | namecheap |
-| systems.viajes     | available | $57.98    | —             | 46             | 27     | 7      | namecheap |
-| trades.viajes      | available | $37.99    | $37.99        | 71             | 26     | 6      | namesilo  |
-| has.viajes         | available | $57.98    | —             | 60             | 26     | 3      | namecheap |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| great.viajes   | available | $37.99    | $37.99        | high           | low    | 5      | namesilo  |
+| ada.viajes     | available | $37.99    | $37.99        | medium         | medium | 3      | namesilo  |
+| one.viajes     | premium   | $500      | $500          | high           | medium | 3      | name.com  |
+| ADS.viajes     | available | $37.99    | $37.99        | high           | medium | 3      | namesilo  |
+| org.viajes     | premium   | $500      | —             | medium         | medium | 3      | name.com  |
+| air.viajes     | available | $37.99    | $37.99        | high           | medium | 3      | namesilo  |
+| blink.viajes   | premium   | $500      | —             | high           | medium | 5      | name.com  |
+| ane.viajes     | available | $37.99    | $37.99        | low            | low    | 3      | namesilo  |
+| fitness.viajes | premium   | $128.70   | $128.70       | high           | low    | 7      | namecheap |
+| Ann.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
+| awe.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
+| bce.viajes     | available | $37.99    | $37.99        | medium         | low    | 3      | namesilo  |
+| bio.viajes     | available | $37.99    | $37.99        | high           | medium | 3      | namesilo  |
+| cup.viajes     | available | $57.98    | —             | high           | low    | 3      | namecheap |
+| day.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
+| eve.viajes     | available | $57.98    | —             | high           | medium | 3      | namecheap |
+| Fla.viajes     | available | $37.99    | $37.99        | medium         | low    | 3      | namesilo  |
+| gym.viajes     | available | $57.98    | —             | high           | low    | 3      | namecheap |
+| hum.viajes     | available | $57.98    | —             | high           | low    | 3      | namecheap |
+| ive.viajes     | available | $37.99    | $37.99        | medium         | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .viajes domains, which makes it most relevant for travel brands, trip services, publishers, guides, agencies, and destination-led projects. The names shown range from broad dictionary words such as group.viajes and history.viajes to more expressive options like daring.viajes and gooutside.viajes. When comparing these domains, focus first on semantic fit with travel, then on memorability, spelling ease, and whether the word feels commercially credible on a Spanish travel extension. The median ask is 54.69, which helps frame entry cost, but the stronger decision factor is whether the name is clear, ownable, and unlikely to create trademark friction.
+placeholder
 
-- .viajes suits travel, trips, tourism, and destination-led brands
-- Broad words can brand well if travel relevance is still obvious
-- Median ask is 54.69, so price discipline is easier to keep
-- Check trademark overlap before choosing generic-looking terms
+- a
+- b
+- c
+- d
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIAJES One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIAJES One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
