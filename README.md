@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .viajes one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,046 domains · **Median ask:** $41.72 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-06
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/tld/viajes`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,10 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| ada.viajes     | available | $37.99    | $37.99        | medium         | medium | 3      | namesilo  |
+| great.viajes   | available | $37.99    | $37.99        | high           | low    | 5      | namesilo  |
 | one.viajes     | premium   | $500      | $500          | high           | medium | 3      | name.com  |
+| clean.viajes   | available | $37.99    | $37.99        | high           | low    | 5      | namesilo  |
+| ada.viajes     | available | $37.99    | $37.99        | medium         | medium | 3      | namesilo  |
 | ADS.viajes     | available | $37.99    | $37.99        | high           | medium | 3      | namesilo  |
 | org.viajes     | premium   | $500      | —             | medium         | medium | 3      | name.com  |
 | air.viajes     | available | $37.99    | $37.99        | high           | medium | 3      | namesilo  |
@@ -82,8 +84,6 @@ print(df.head())
 | day.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
 | eve.viajes     | available | $57.98    | —             | high           | medium | 3      | namecheap |
 | Fla.viajes     | available | $37.99    | $37.99        | medium         | low    | 3      | namesilo  |
-| gym.viajes     | available | $57.98    | —             | high           | low    | 3      | namecheap |
-| hum.viajes     | available | $57.98    | —             | high           | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIAJES One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIAJES One-Word Domains*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
