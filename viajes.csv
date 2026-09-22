@@ -15,7 +15,7 @@ db388c28-0e30-483b-8341-ed5723a98de7,bellbottom.viajes,available,37.99,37.99,low
 feffe0c0-325b-455f-b165-fc7672b43f5d,vanquish.viajes,available,37.99,37.99,low,low,8,namesilo,,,09/08/2026 05:32
 c556b107-1bbf-45f0-af4f-d7f2dac78c85,ihavenomoney.viajes,available,37.99,37.99,medium,low,15,namesilo,,,
 9fd9ff6a-f073-4f53-b1b3-61b069e7c2a6,background.viajes,available,37.99,37.99,high,low,10,namesilo,,,
-71e7c482-ea1a-46e0-9ad9-6512f514a22f,silly.viajes,available,37.99,37.99,high,low,5,namesilo,,,
+71e7c482-ea1a-46e0-9ad9-6512f514a22f,silly.viajes,available,37.99,37.99,low,low,5,namesilo,,,21/09/2026 23:43
 b35df976-e2f1-47e0-ba31-ee74e4b4b6fc,slowness.viajes,available,37.99,37.99,medium,low,8,namesilo,,,
 06407fd0-3232-4506-b6c6-8587e78b43ca,inthethickofit.viajes,available,37.99,37.99,medium,low,18,namesilo,,,
 0e71c1a3-21a2-43ce-b6ff-f661d7a8aeb0,naturally.viajes,available,37.99,37.99,medium,low,9,namesilo,,,
@@ -23,13 +23,13 @@ b35df976-e2f1-47e0-ba31-ee74e4b4b6fc,slowness.viajes,available,37.99,37.99,mediu
 19ae7d48-98fe-4a2c-afcf-e55188f9068f,jollygoodshow.viajes,available,37.99,37.99,high,low,15,namesilo,,,
 64f1f045-a3ff-45d1-b7b0-048daf82de15,arcuate.viajes,available,37.99,37.99,low,low,7,namesilo,,,06/08/2026 14:49
 3871c4b6-f687-4775-a1f0-3740a3166b70,treasure.viajes,available,37.99,37.99,high,low,8,namesilo,,,
-fb0a6f8e-138e-4438-8a45-d2070e63ec1f,teen.viajes,available,37.99,37.99,high,low,4,namesilo,,,
+fb0a6f8e-138e-4438-8a45-d2070e63ec1f,teen.viajes,available,43.98,57.98,medium,low,4,namecheap,,,21/09/2026 19:11
 0ccadea2-b25d-4e64-a035-e3826142b181,shall.viajes,available,37.99,37.99,medium,low,5,namesilo,,,
 8410651e-2ddc-42ea-ab8f-d289a76ba349,cypher.viajes,available,37.99,37.99,low,medium,6,namesilo,,,
 746ca179-5d4e-4c8e-9d91-c28fa36fc6e7,blues.viajes,available,37.99,37.99,medium,low,5,namesilo,,,
 4f632eac-0f1e-46bd-b9e4-5b46b92e323d,sweets.viajes,available,37.99,37.99,medium,low,6,namesilo,,,
 27bcbd1b-e72f-4217-bfa0-37d2d1df46ed,balding.viajes,available,37.99,37.99,low,low,7,namesilo,,,08/08/2026 09:35
-2566dcdf-05ab-4deb-9638-6a95454e1628,cordial.viajes,available,37.99,37.99,high,low,7,namesilo,,,
+2566dcdf-05ab-4deb-9638-6a95454e1628,cordial.viajes,available,43.98,57.98,medium,low,7,namecheap,,,21/09/2026 21:39
 959ab3b7-e499-4b41-97ac-475955192cba,concert.viajes,available,37.99,37.99,high,low,7,namesilo,,,
 4b871127-4c06-473d-a384-8e5914478e38,bits.viajes,available,37.99,37.99,medium,low,4,namesilo,,,
 504912eb-d29f-40db-b947-f4aa6e10310b,iwouldratherdie.viajes,available,37.99,37.99,medium,low,18,namesilo,,,
@@ -54,7 +54,7 @@ ae46a132-6fc4-4b95-ae1c-e5f28e7a2b59,doctor.viajes,available,37.99,37.99,high,lo
 76086ac5-7408-435b-94a5-094af84a0e13,heard.viajes,available,37.99,37.99,medium,low,5,namesilo,,,
 38acdeca-d323-43b2-9906-9441c74447e2,currency.viajes,available,57.98,,high,low,8,namecheap,,,
 550bab57-57e5-4084-8496-0e0ba2c17101,woven.viajes,available,37.99,37.99,high,low,5,namesilo,,,
-475ef776-4132-4392-8cf9-5728d584f08a,later.viajes,available,37.99,37.99,high,low,5,namesilo,,,
+475ef776-4132-4392-8cf9-5728d584f08a,later.viajes,available,37.99,37.99,medium,low,5,namesilo,,,21/09/2026 22:11
 4e5b3249-cb02-4b55-a1b9-e377711bfe20,groundstaff.viajes,available,37.99,37.99,medium,low,12,namesilo,,,
 f3f5a12a-618e-4e30-9621-830c02229f59,paper.viajes,available,37.99,37.99,high,low,5,namesilo,,,
 94e218d0-eee9-41aa-8a12-4eca0bee498a,blossom.viajes,available,37.99,37.99,high,low,7,namesilo,,,
@@ -66,7 +66,7 @@ a534c57d-6f2a-4199-a6a5-55013908fe88,leak.viajes,available,37.99,37.99,medium,lo
 1c6bb027-f25e-4870-8335-12f2e0673e7a,diabetes.viajes,available,37.99,37.99,medium,low,8,namesilo,,,
 15002d69-0f1b-4797-9898-33279eb43747,set.viajes,available,37.99,37.99,high,low,3,namesilo,,,
 af96a30a-71d7-4275-ab4c-cf3fc1b3fd09,walloping.viajes,available,37.99,37.99,low,low,9,namesilo,,,08/08/2026 13:19
-dfd1547f-ed5e-41b2-adb0-e35b3365e932,accountstatement.viajes,available,57.98,,medium,low,17,namecheap,,,
+dfd1547f-ed5e-41b2-adb0-e35b3365e932,accountstatement.viajes,available,57.98,,low,low,17,namecheap,,,
 d598fd5a-577b-4ac9-9c30-37dac23f7ca5,collarbone.viajes,available,37.99,37.99,medium,low,11,namesilo,,,
 fdf5bb23-22ed-4395-94fd-8aceaa0be732,mouthoff.viajes,available,57.98,,low,low,9,namecheap,,,
 78881d25-3982-4f6d-85cd-3b4ede9c0e68,wise.viajes,available,,,high,low,4,,,,
@@ -88,7 +88,7 @@ b0e71ee3-37d2-4889-8e27-dd646ca35d3e,obtained.viajes,available,37.99,37.99,low,l
 c81236d3-2afe-4aee-9d69-b9ff7783f3bf,pure.viajes,available,37.99,37.99,high,medium,4,namesilo,,,
 7d951882-c79b-41f0-bdd1-88c86f6d53c1,clipthewingsof.viajes,available,37.99,37.99,high,low,17,namesilo,,,
 6d09c4cb-0127-4973-b37e-b9d4c7d46f52,prototypic.viajes,available,37.99,37.99,low,low,10,namesilo,,,06/08/2026 15:42
-785917af-fe2f-4e0c-bc88-7a58844e46d9,whole.viajes,available,37.99,37.99,high,low,5,namesilo,,,
+785917af-fe2f-4e0c-bc88-7a58844e46d9,whole.viajes,available,43.98,57.98,medium,low,5,namecheap,,,22/09/2026 00:29
 66403b6b-c353-49df-ab49-3377f1f82e57,brush.viajes,available,37.99,37.99,medium,low,5,namesilo,,,
 03a4b0a8-fc05-42b1-800a-198498f95304,wax.viajes,available,37.99,37.99,medium,low,3,namesilo,,,
 5be11589-61cf-4b21-9655-26e0c8535cdd,changes.viajes,available,37.99,37.99,medium,low,7,namesilo,,,
@@ -149,7 +149,7 @@ c995e214-0597-423d-97a6-dd76fa9187b0,kneedeep.viajes,available,37.99,37.99,low,l
 728cb1c3-ede5-4b09-9fab-3a9ac86bdccb,extinction.viajes,available,37.99,37.99,medium,low,10,namesilo,,,
 d3809d74-057a-49e2-b7e6-70057f8af85b,drink.viajes,available,37.99,37.99,medium,low,5,namesilo,,,04/09/2026 13:20
 7e1bc042-9872-4394-a0a3-ce1d355ee7c1,rejoin.viajes,available,37.99,37.99,high,low,6,namesilo,,,
-b581bc4e-ac98-4d50-a94c-dfc726501602,ageing.viajes,available,37.99,37.99,high,low,6,namesilo,,,
+b581bc4e-ac98-4d50-a94c-dfc726501602,ageing.viajes,available,37.99,37.99,medium,low,6,namesilo,,,21/09/2026 22:43
 f4c40342-ac3a-4f62-b5bb-71f0ff3b287b,measuring.viajes,available,57.98,,medium,low,9,namecheap,,,
 83460f2f-9eda-4e97-b7dc-c355e76b1c1e,newyear.viajes,available,37.99,37.99,medium,low,8,namesilo,,,
 1e2fb2ca-c74d-4154-8a72-b138a0888c17,taipei.viajes,available,37.99,37.99,high,low,6,namesilo,,,
@@ -160,7 +160,7 @@ eeddb8b5-630f-4ddf-8ce4-4998add8c4d6,authorized.viajes,available,37.99,37.99,hig
 ec97c665-88af-43ef-88fa-12bfb85a4c73,sacred.viajes,available,37.99,37.99,medium,low,6,namesilo,,,
 b457c399-9a1b-41c1-9574-a75f3f3e31d0,barmy.viajes,available,37.99,37.99,low,low,5,namesilo,,,06/08/2026 20:25
 fa6d7421-8395-41dc-95ab-c87bec7a886a,blank.viajes,available,37.99,37.99,medium,low,5,namesilo,,,
-11bfb75a-43b8-40a4-b3aa-eb5c0ca3a534,accepting.viajes,available,37.99,37.99,high,low,9,namesilo,,,
+11bfb75a-43b8-40a4-b3aa-eb5c0ca3a534,accepting.viajes,available,37.99,37.99,medium,low,9,namesilo,,,21/09/2026 15:33
 2a8661eb-99af-46f6-b1ff-c393688bb257,baconexplosion.viajes,available,37.99,37.99,high,low,15,namesilo,,,
 76994f79-c562-4091-876d-a14a92aed05d,chain.viajes,available,37.99,37.99,medium,low,5,namesilo,,,
 00f81356-d64b-490e-b6a6-7219aecbc7eb,carribean.viajes,available,37.99,37.99,high,low,9,namesilo,,,
@@ -179,7 +179,7 @@ f249ce2e-7269-4d4a-8669-8e5cf3e4036b,treasurydepartment.viajes,available,57.98,,
 a385e88c-1b03-4950-ac9b-43c64ce64b8a,lookout.viajes,available,37.99,37.99,high,low,7,namesilo,,,
 6e84459b-63b5-4732-9f91-7c974b8587f1,nonewsisgoodnews.viajes,available,37.99,37.99,medium,low,20,namesilo,,,
 474ca3ab-bdb5-4d63-9e26-9e1b59980126,confide.viajes,available,37.99,37.99,high,low,7,namesilo,,,
-2b720f23-7e78-4f9f-8496-c1b7251e4e43,alamode.viajes,available,37.99,37.99,high,low,9,namesilo,,,
+2b720f23-7e78-4f9f-8496-c1b7251e4e43,alamode.viajes,available,37.99,37.99,medium,low,9,namesilo,,,21/09/2026 13:34
 88a48e55-373f-4d04-b421-7c8cca928664,schoolboard.viajes,available,37.99,37.99,high,low,12,namesilo,,,
 7ef421c5-aff8-45dc-9f32-52c1db42c7bd,sighted.viajes,available,37.99,37.99,medium,low,7,namesilo,,,
 40cd401f-5025-4802-bfdc-36d5f20663f5,restricted.viajes,available,57.98,,medium,low,10,namecheap,,,
@@ -194,7 +194,7 @@ a3b143c6-71eb-4d13-b916-c1690ed5af84,iseeyou.viajes,available,37.99,37.99,medium
 a4866f25-06be-40ba-bea1-9320feac851b,nashville.viajes,available,37.99,37.99,high,low,9,namesilo,,,
 3d0fc914-b846-40d3-be9c-44a3637743cd,june.viajes,available,37.99,37.99,high,low,4,namesilo,,,
 b2730a25-3dae-4dd3-8da9-4e3cecadb452,allowable.viajes,available,37.99,37.99,low,low,9,namesilo,,,
-a4cf412c-c451-4e73-91e2-ad8bc5ca9a35,remove.viajes,available,37.99,37.99,high,low,6,namesilo,,,
+a4cf412c-c451-4e73-91e2-ad8bc5ca9a35,remove.viajes,available,37.99,37.99,medium,low,6,namesilo,,,21/09/2026 14:40
 2457628c-b4e3-423c-8a4f-b45971e15ff9,match.viajes,available,,,high,low,5,,,,
 32991e1e-9243-4231-b9ec-001d2ad93bcd,naturestudent.viajes,available,37.99,37.99,low,low,14,namesilo,,,
 051c7eff-64d9-4c6a-aab6-4e237d7ef0ac,masculine.viajes,available,37.99,37.99,high,low,9,namesilo,,,
@@ -231,7 +231,7 @@ d75a34eb-0e5a-41de-b762-21e596243ce3,assuring.viajes,available,37.99,37.99,low,l
 8f4792db-3235-4cfa-930c-bb0cedf367c2,nursery.viajes,available,37.99,37.99,medium,low,7,namesilo,,,
 f13374c5-bf86-4227-8241-c575a775ec21,corrupted.viajes,available,37.99,37.99,medium,low,9,namesilo,,,
 729e5d45-10f0-4e9f-8822-14fef159458c,sitting.viajes,available,37.99,37.99,high,low,7,namesilo,,,
-cda830be-227e-4c50-ae81-3631c269feae,allied.viajes,available,37.99,37.99,high,low,6,namesilo,,,
+cda830be-227e-4c50-ae81-3631c269feae,allied.viajes,available,43.98,57.98,medium,low,6,namecheap,,,22/09/2026 01:28
 dfd3d538-31e5-4001-92a2-cdff6140aba9,inthreedays.viajes,available,57.98,,medium,low,13,namecheap,,,
 8c190c49-6b30-43e7-ac1f-4f600ca0fa9c,bird.viajes,available,37.99,37.99,high,medium,4,namesilo,,,
 77377c98-8949-4459-83d0-d97a8d1d5956,wanted.viajes,available,37.99,37.99,high,low,6,namesilo,,,
@@ -277,7 +277,7 @@ c92adf13-1d08-4723-bef4-95717bf45b2f,bum.viajes,available,37.99,37.99,low,low,3,
 04e5e83e-73ba-41e4-a083-01d469cb1259,dishup.viajes,available,37.99,37.99,high,low,7,namesilo,,,
 32d8bf49-4a07-4c19-89d0-6098858333ae,primarily.viajes,available,37.99,37.99,medium,low,9,namesilo,,,
 b73406d9-d6fa-4b9b-a4d3-21579e04bd77,gym.viajes,available,57.98,,high,low,3,namecheap,,,
-2b008224-51a0-4e89-9d23-5db195dffcd1,adept.viajes,available,37.99,37.99,high,low,5,namesilo,,,
+2b008224-51a0-4e89-9d23-5db195dffcd1,adept.viajes,available,43.98,57.98,medium,low,5,namecheap,,,21/09/2026 17:17
 1747db4b-1ad8-4c6b-b1ec-f176d641b165,topic.viajes,available,37.99,37.99,high,low,5,namesilo,,,
 402cc8b6-d630-44a6-a444-eb673dbd2f0b,shining.viajes,available,37.99,37.99,high,low,7,namesilo,,,
 ccc061c5-28ea-4929-9e28-ea1c3d1b1524,clean.viajes,available,37.99,37.99,medium,low,5,namesilo,,,19/09/2026 12:48
@@ -363,7 +363,7 @@ ebcaf5f7-bd42-43c8-8384-60fae707db82,badmintoncourt.viajes,available,57.98,,high
 a4350674-b8ca-43b5-b6eb-0b923e7501db,clergy.viajes,available,37.99,37.99,medium,low,6,namesilo,,,
 4ea87109-0cb2-400e-bbf7-3d5129c46400,luck.viajes,available,37.99,37.99,high,low,4,namesilo,,,
 24c6702a-855d-4817-95f8-6b3ed5c8a151,befogged.viajes,available,37.99,37.99,low,low,8,namesilo,,,09/08/2026 08:43
-71672cbf-3d26-4731-9691-23c95977bd96,activist.viajes,available,37.99,37.99,high,low,8,namesilo,,,
+71672cbf-3d26-4731-9691-23c95977bd96,activist.viajes,available,37.99,37.99,medium,low,8,namesilo,,,21/09/2026 16:34
 a2e72760-326d-4876-ab0e-9eef55bd51d4,willow.viajes,available,37.99,37.99,medium,low,6,namesilo,,,
 51a780f1-3a02-451c-8f1a-304ee9dbd733,fiftyfour.viajes,available,37.99,37.99,low,low,10,namesilo,,,
 88fb82fb-78fb-4f02-959a-d873fdaabb06,coconut.viajes,available,37.99,37.99,high,low,7,namesilo,,,
@@ -398,7 +398,7 @@ f4344e95-9c07-46f9-9a48-1d6c0b4daaa7,shell.viajes,available,,,medium,low,5,,,,
 9d0bb1ce-709b-49d5-ac55-172bc49dc0e7,broadcast.viajes,available,37.99,37.99,medium,low,9,namesilo,,,19/09/2026 05:03
 6b898826-816b-4602-9003-73e1216530d5,birth.viajes,available,37.99,37.99,high,low,5,namesilo,,,
 d2648e16-4d97-4791-a9b6-5c69e393244d,ugh.viajes,available,37.99,37.99,medium,low,3,namesilo,,,
-e96ac49a-151a-4865-96bb-5001f5208ff8,jump.viajes,available,37.99,37.99,high,low,4,namesilo,,,
+e96ac49a-151a-4865-96bb-5001f5208ff8,jump.viajes,available,37.99,37.99,low,low,4,namesilo,,,22/09/2026 02:34
 94a818d8-fa16-44f7-aece-89378db81ef5,winback.viajes,available,37.99,37.99,medium,low,8,namesilo,,,
 824ce28d-8cb1-4631-948a-71c4b5234f4e,searchengine.viajes,available,37.99,37.99,high,low,13,namesilo,,,
 eddf5315-b6b2-4090-a98a-446257054d9f,gotobedwith.viajes,available,37.99,37.99,medium,low,14,namesilo,,,
@@ -438,7 +438,7 @@ edf912dd-fdb0-43ff-a79e-b549860cca5f,albinotic.viajes,available,37.99,37.99,low,
 1b4f9036-824a-49df-8890-1b8ec7cc2023,idonotknowit.viajes,available,37.99,37.99,medium,low,16,namesilo,,,
 040f232b-9f54-43be-8ee6-55528c9292bc,extendto.viajes,available,37.99,37.99,high,low,9,namesilo,,,
 909e62d5-0983-4410-8727-c88e402c98c1,combat.viajes,available,37.99,37.99,high,low,6,namesilo,,,
-6b770b50-3272-4e81-b23c-1ebd6ec134ba,champion.viajes,available,37.99,37.99,high,low,8,namesilo,,,
+6b770b50-3272-4e81-b23c-1ebd6ec134ba,champion.viajes,available,63.99,65.99,medium,low,8,name.com,,,21/09/2026 17:32
 94350ba7-e0c3-4e7c-a1bb-cb9dd4bfe0f5,idiom.viajes,available,37.99,37.99,high,low,5,namesilo,,,
 174dab4d-9102-400f-98d8-80feeeda7ec1,soap.viajes,available,37.99,37.99,high,low,4,namesilo,,,
 c8ff9b0a-4e26-4050-90f2-abbae8a8d7e8,uremic.viajes,available,37.99,37.99,low,low,6,namesilo,,,08/08/2026 02:43
@@ -468,7 +468,7 @@ cf9627b6-0593-448e-83f3-f2f511cbbb9b,hairfollicle.viajes,available,37.99,37.99,h
 52998498-1334-4a42-888d-f43a0afb89a9,majestic.viajes,available,37.99,37.99,high,low,8,namesilo,,,
 687f066b-ed40-4f0d-a751-863a0910ef7a,nondrinker.viajes,available,37.99,37.99,low,low,10,namesilo,,,
 e32d9b4e-dd43-492c-b01d-3018ba3c167c,relatedto.viajes,available,37.99,37.99,medium,low,10,namesilo,,,
-228266fc-a235-44e8-a437-44f8575db4d2,three.viajes,available,37.99,37.99,high,low,5,namesilo,,,
+228266fc-a235-44e8-a437-44f8575db4d2,three.viajes,available,37.99,37.99,medium,low,5,namesilo,,,21/09/2026 13:02
 6e22b1fa-a471-4f65-baf4-afd2e1d936fc,pineapple.viajes,available,37.99,37.99,high,low,9,namesilo,,,
 2f1304de-f046-4733-8c10-83eb792cecdf,westwood.viajes,available,37.99,37.99,low,low,8,namesilo,,,
 426d1a3b-fb35-483d-aa5a-ac426d79dc16,sensor.viajes,available,37.99,37.99,high,low,6,namesilo,,,
@@ -542,7 +542,7 @@ e12efbc4-3898-4471-8a14-3199e3399e13,motherfugga.viajes,available,37.99,37.99,me
 c6b8f304-05bc-4eba-b33e-b1703388be4e,whogoesthere.viajes,available,57.98,,low,low,14,namecheap,,,
 bd32baf3-7c25-4d7b-8d17-1d0d8f0c5715,heedful.viajes,available,37.99,37.99,low,low,7,namesilo,,,
 7dce25bf-d7f8-4521-ab89-59e3e1dcf5ad,getin.viajes,available,37.99,37.99,high,low,6,namesilo,,,
-c66e5f6f-6b71-4aa3-89ce-c74ef86354d3,acne.viajes,available,37.99,37.99,medium,low,4,namesilo,,,
+c66e5f6f-6b71-4aa3-89ce-c74ef86354d3,acne.viajes,available,37.99,37.99,low,low,4,namesilo,,,
 2e18d5b6-bb61-4468-a048-7bca7d8f0d82,kingjames.viajes,available,37.99,37.99,high,low,10,namesilo,,,
 1d46a130-81db-40bd-ad70-ca693ac8d4d3,ssi.viajes,available,37.99,37.99,high,low,3,namesilo,,,
 3d8d24e6-092e-4d4e-8f76-739080ba4ec0,involvement.viajes,available,37.99,37.99,high,low,11,namesilo,,,
@@ -589,11 +589,11 @@ c48c3b1b-13b9-4bb9-8c08-c475a9e2593a,owe.viajes,available,37.99,37.99,high,low,3
 0b9963de-0f27-451d-862c-46f63d588e7a,thinkagain.viajes,available,57.98,,low,low,11,namecheap,,,
 704d7e2e-fcdc-4857-98d1-137cb28e5dd1,foreman.viajes,available,37.99,37.99,medium,low,7,namesilo,,,
 0da92d36-c197-4d4b-bd38-951003e3062d,library.viajes,available,37.99,37.99,medium,low,7,namesilo,,,19/09/2026 14:39
-a4efb402-5a21-4019-90d5-ef38fc2d288a,ten.viajes,available,37.99,37.99,high,low,3,namesilo,,,
+a4efb402-5a21-4019-90d5-ef38fc2d288a,ten.viajes,available,43.98,57.98,medium,low,3,namecheap,,,21/09/2026 10:51
 12ce6246-6c21-4906-890c-ed0954637e42,easter.viajes,available,57.98,,high,low,6,namecheap,,,
 6fb8f5b2-49fb-4d07-a091-95d7d9739a92,repeat.viajes,available,57.98,,high,low,6,namecheap,,,
 fe3a049c-c2cd-43e5-ad50-29b8312e335a,atthebank.viajes,available,37.99,37.99,high,low,11,namesilo,,,
-23559297-ce70-47ae-86ce-62110241e73c,one.viajes,premium,500,500,high,medium,3,name.com,,,
+23559297-ce70-47ae-86ce-62110241e73c,one.viajes,premium,512,512,medium,low,3,namesilo,,,21/09/2026 10:37
 ba898a41-e67e-4473-958f-65668becc8b8,ruined.viajes,available,57.98,,medium,low,6,namecheap,,,
 4e7a05c3-c1bc-44dd-a10a-b91a49dd5cfc,wagon.viajes,available,37.99,37.99,medium,low,5,namesilo,,,
 51f92752-a468-411e-9ab0-c1e5a12498c7,nasasupported.viajes,available,37.99,37.99,low,low,14,namesilo,,,
@@ -602,7 +602,7 @@ c33a2302-60ff-4b07-851d-576d1ae87b47,polygon.viajes,available,37.99,37.99,high,l
 acedcb8d-d32c-4149-a65e-202ca6e7d800,eve.viajes,available,57.98,,high,medium,3,namecheap,,,
 7513311e-798e-43a5-8a78-b84c5c101d6e,giveahoot.viajes,available,37.99,37.99,high,low,11,namesilo,,,
 60bf7bb2-6fe9-4774-bae5-76e6c8c454b5,financial.viajes,available,37.99,37.99,low,low,9,namesilo,,,19/09/2026 09:32
-9e7a030c-cefc-49aa-82ae-e9588b2e4b17,affable.viajes,available,37.99,37.99,high,low,7,namesilo,,,
+9e7a030c-cefc-49aa-82ae-e9588b2e4b17,affable.viajes,available,43.98,57.98,medium,low,7,namecheap,,,21/09/2026 21:27
 1ea8bce1-a959-41e9-8727-00e194d6f4ad,inpublic.viajes,available,37.99,37.99,low,low,9,namesilo,,,16/09/2026 13:11
 a8cd5611-26d1-4b6b-a20c-99b6fcad4544,acold.viajes,available,37.99,37.99,low,low,5,namesilo,,,
 6e360b8c-b551-4438-9705-62657cf3d08a,awakening.viajes,available,37.99,37.99,high,low,9,namesilo,,,
@@ -777,12 +777,12 @@ dffd04bb-4fbb-4047-b33a-756209cb8f5d,closerange.viajes,available,37.99,37.99,med
 d5877c45-8b5e-401c-9323-3320958e781d,inspiteof.viajes,available,37.99,37.99,medium,low,11,namesilo,,,
 230adf7c-3734-4171-986e-40f833f3627b,abstainer.viajes,available,37.99,37.99,low,low,9,namesilo,,,
 70961f14-42c0-4b00-9c52-20377317ae4e,tend.viajes,available,37.99,37.99,high,low,4,namesilo,,,
-8b572c2b-0a69-4d48-8957-0466b3e9bbcf,aging.viajes,available,37.99,37.99,high,low,5,namesilo,,,
+8b572c2b-0a69-4d48-8957-0466b3e9bbcf,aging.viajes,available,37.99,37.99,low,low,5,namesilo,,,21/09/2026 22:40
 d29b2a0c-750a-4700-bb1f-e8b07410ba0a,lovesome.viajes,available,37.99,37.99,low,low,8,namesilo,,,
 5df662de-e017-4708-8929-586f276bfb3a,seeabout.viajes,available,37.99,37.99,medium,low,9,namesilo,,,
 a363462c-07c9-4c6a-99e7-034de3c8b7ca,indeed.viajes,available,,,high,low,6,,,,
 ad5502bd-3cec-471c-84ff-6cecdaae979f,mac.viajes,available,,,high,low,3,,,,
-7889a712-2ceb-42ff-9ed2-bc5ba8ae7aab,assisted.viajes,available,37.99,37.99,medium,low,8,namesilo,,,
+7889a712-2ceb-42ff-9ed2-bc5ba8ae7aab,assisted.viajes,available,37.99,37.99,low,low,8,namesilo,,,21/09/2026 23:41
 bc71241d-a423-4069-b9c9-71d0e967da33,commend.viajes,available,37.99,37.99,high,low,7,namesilo,,,
 1bea79fe-613f-41ee-b3a0-37ddf53806e1,anarmandaleg.viajes,available,37.99,37.99,medium,low,16,namesilo,,,
 596448dd-685d-4bb6-bdf0-c21948ce6cf0,rewarding.viajes,available,57.98,,high,low,9,namecheap,,,
@@ -794,11 +794,11 @@ a0d06e09-7ff9-4a03-9a36-23de5d62d3e5,relapse.viajes,available,57.98,,high,low,7,
 2dae0a12-f17b-4c2b-97d9-0805fa986183,corridor.viajes,available,37.99,37.99,medium,low,8,namesilo,,,
 8ecd0cc5-1bfe-4188-a845-60f6c8863d9c,dendriform.viajes,available,37.99,37.99,low,low,10,namesilo,,,06/08/2026 13:45
 0a7d5f71-afe2-4319-8560-81eae5416e3a,fruit.viajes,available,37.99,37.99,high,low,5,namesilo,,,
-e1d683b5-843d-4746-8bbd-3c85d7271c7a,nought.viajes,available,37.99,37.99,high,low,6,namesilo,,,
+e1d683b5-843d-4746-8bbd-3c85d7271c7a,nought.viajes,available,37.99,37.99,medium,low,6,namesilo,,,21/09/2026 10:34
 470961e7-f657-4dfe-8b68-7cd78985792c,qualitative.viajes,available,37.99,37.99,high,low,11,namesilo,,,
 d97862bd-458c-4312-9dd5-98d03a6e21bc,wow.viajes,available,37.99,37.99,high,medium,3,namesilo,,,
 2e3e82d8-d9a8-4531-8de9-d5bcdf136b79,getridof.viajes,available,57.98,,high,low,10,namecheap,,,
-87684d79-466b-437f-a6da-8d558ec4ff69,horseback.viajes,available,37.99,37.99,high,low,9,namesilo,,,
+87684d79-466b-437f-a6da-8d558ec4ff69,horseback.viajes,available,37.99,37.99,medium,low,9,namesilo,,,21/09/2026 23:38
 00bf6de8-c399-4159-8f61-9a2d937ef90e,diplomatic.viajes,available,57.98,,high,low,10,namecheap,,,
 45298a2d-de67-4d16-add4-1480be5ed441,androgenic.viajes,available,37.99,37.99,low,low,10,namesilo,,,
 9c60ecf9-1a14-4b90-8f66-d5c354d7f9d2,revolved.viajes,available,57.98,,medium,low,8,namecheap,,,
@@ -817,7 +817,7 @@ f889cfd2-288d-4b58-ac20-943c5be42236,miffed.viajes,available,37.99,37.99,low,low
 60cd3e1a-1c81-4a28-b46b-f61053fd3547,shoe.viajes,available,57.98,,high,low,4,namecheap,,,
 0d42b175-7b95-424b-acb5-60a8808362ca,granola.viajes,available,57.98,,high,low,7,namecheap,,,
 602db222-efd6-4c6d-ac63-774fc47c6079,fireengine.viajes,available,57.98,,high,low,11,namecheap,,,
-5672775e-857e-4cab-9b3a-e07b02d023e2,progress.viajes,available,37.99,37.99,high,low,8,namesilo,,,
+5672775e-857e-4cab-9b3a-e07b02d023e2,progress.viajes,available,43.98,57.98,medium,low,8,namecheap,,,21/09/2026 20:19
 0d5e7a87-1fee-4ba1-8985-38656d1bb500,bugged.viajes,available,37.99,37.99,medium,low,6,namesilo,,,
 a131dd83-d74b-46f4-a554-9da28ca4addd,barefooted.viajes,available,43.98,57.98,low,low,10,namecheap,,,08/08/2026 18:59
 6974d8be-e3bd-4b33-9f98-3bc6f8bead15,fruity.viajes,available,43.98,57.98,medium,low,6,namecheap,,,06/08/2026 21:00
@@ -832,13 +832,13 @@ acc11d0f-5683-461b-a712-03741e7179d4,thing.viajes,available,37.99,37.99,high,low
 2e01328e-4255-4f07-977b-7b0c54846d4e,workoff.viajes,available,37.99,37.99,medium,low,8,namesilo,,,
 f83de6b7-f6c4-4f14-982c-310605ae41a2,someone.viajes,available,37.99,37.99,high,low,7,namesilo,,,
 a0b3a9fd-2a22-4eb5-a784-d60ed1ad2455,tangle.viajes,available,37.99,37.99,high,low,6,namesilo,,,
-6dfb6711-c499-4302-bf05-4bd2ea1d9262,twenty.viajes,available,37.99,37.99,high,low,6,namesilo,,,
+6dfb6711-c499-4302-bf05-4bd2ea1d9262,twenty.viajes,available,37.99,37.99,medium,low,6,namesilo,,,21/09/2026 12:24
 d83cefb2-f00e-47d0-ab91-d426e67f0795,fitness.viajes,premium,128.7,128.7,high,low,7,namecheap,,,
 13016226-9ef0-45a3-a3b9-9c493a906627,wordofmouth.viajes,available,37.99,37.99,low,low,13,namesilo,,,
 e5897e46-9528-45f5-be19-2732fade76a1,standardize.viajes,available,37.99,37.99,high,low,11,namesilo,,,
 39913181-0aa8-4786-b5a5-a8bce6b1f564,bannerad.viajes,available,37.99,37.99,high,low,9,namesilo,,,
 821aa6be-604f-4dbb-bfc4-4fb5dfe1f515,stpauls.viajes,available,37.99,37.99,medium,low,8,namesilo,,,
-455e67bd-a5fc-4aa7-a54f-dc450a1161c6,wizard.viajes,available,37.99,37.99,high,medium,6,namesilo,,,
+455e67bd-a5fc-4aa7-a54f-dc450a1161c6,wizard.viajes,available,43.98,57.98,medium,low,6,namecheap,,,21/09/2026 18:11
 d0168847-70e1-4fd7-b5af-326a6ea96ab3,thread.viajes,available,57.98,,high,low,6,namecheap,,,
 ad4a91bd-64df-4b85-aab1-de605526c83f,heat.viajes,available,37.99,37.99,high,low,4,namesilo,,,
 eb5efb65-7fbf-4c0b-a2cb-bf7bc0876f80,invariably.viajes,available,37.99,37.99,medium,low,10,namesilo,,,
@@ -872,7 +872,7 @@ b9744a6a-7597-4a2c-a1e5-c048bda8c9bc,indifferent.viajes,available,37.99,37.99,hi
 d21167b1-7da1-46df-aa9e-fdd54b150fdd,wallet.viajes,available,37.99,37.99,high,medium,6,namesilo,,,
 d5e6dfec-6bcb-4b67-a780-4d054a2baca9,reader.viajes,available,37.99,37.99,high,low,6,namesilo,,,
 a82f7cd8-33d3-4df0-974d-51ff96ebb78b,veg.viajes,available,37.99,37.99,high,low,3,namesilo,,,
-49f08abd-12ed-4997-ab8b-8216bc507361,twelve.viajes,available,37.99,37.99,high,low,6,namesilo,,,
+49f08abd-12ed-4997-ab8b-8216bc507361,twelve.viajes,available,37.99,37.99,medium,low,6,namesilo,,,21/09/2026 11:23
 8730e158-c398-41c6-9a89-7ff71fcc4bda,smaller.viajes,available,37.99,37.99,medium,low,7,namesilo,,,
 8deb5f9e-8bf3-4571-a4f9-e0b88869b910,nerd.viajes,available,37.99,37.99,high,medium,4,namesilo,,,
 ea9a0b62-c345-4f05-a574-a0bd3878009d,barrier.viajes,available,37.99,37.99,medium,low,7,namesilo,,,
@@ -957,12 +957,12 @@ f1c748ea-9ab0-44a9-ac4a-f9a37c3db3cd,chime.viajes,available,37.99,37.99,high,low
 5bdd9249-1b7a-4e5b-b15b-123f28248e28,anatomic.viajes,available,37.99,37.99,low,low,8,namesilo,,,
 2ec45ccd-ee92-4581-a3e1-b7f543e4dab7,attenuated.viajes,available,37.99,37.99,low,low,10,namesilo,,,07/08/2026 15:27
 87b7fc97-ba8b-43e4-b0f6-35f2be529e4a,presently.viajes,available,37.99,37.99,medium,low,9,namesilo,,,
-683c1c52-2d53-441c-bf0f-a6f526243dbc,athletic.viajes,available,37.99,37.99,high,low,8,namesilo,,,
+683c1c52-2d53-441c-bf0f-a6f526243dbc,athletic.viajes,available,37.99,37.99,medium,low,8,namesilo,,,21/09/2026 16:12
 7cc7f8b4-6566-4387-95fa-7d08e4b0d9ef,animist.viajes,available,37.99,37.99,low,low,7,namesilo,,,
 94f4992e-06b2-48e7-81a4-74458853c61b,sub.viajes,available,37.99,37.99,high,low,3,namesilo,,,
 5f0bab4e-8cde-4cfa-a28d-9756275bca64,divide.viajes,available,37.99,37.99,high,low,6,namesilo,,,
 bf20ad71-4742-4fa4-a56e-c757762fbd48,participant.viajes,available,37.99,37.99,high,low,11,namesilo,,,
-f0dcae5c-381c-47e4-a0d9-b95156614833,surrogate.viajes,available,37.99,37.99,high,low,9,namesilo,,,
+f0dcae5c-381c-47e4-a0d9-b95156614833,surrogate.viajes,available,37.99,37.99,medium,low,9,namesilo,,,22/09/2026 02:27
 efc5610f-68ac-4e68-8b68-e372b45cb65e,fla.viajes,available,37.99,37.99,medium,low,3,namesilo,,,
 185514dc-e186-4942-bec7-48bd53db3af9,fortyfive.viajes,available,37.99,37.99,low,low,10,namesilo,,,
 f0c4d5d3-b221-486a-8f65-bba55ca60575,lxvii.viajes,available,37.99,37.99,low,low,5,namesilo,,,
