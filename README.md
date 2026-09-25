@@ -1,10 +1,10 @@
-# Available .VIAJES One-Word Domains (33,247)
+# Available .VIAJES One-Word Domains (16,920)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C247%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C920%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .viajes one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,247 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **16,920 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,247 domains · **Median ask:** $40.47 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 16,920 domains · **Median ask:** $40.53 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/viajes`
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | ada.viajes     | available | $37.99    | $37.99        | high           | medium | 3      | namesilo  |
 | org.viajes     | premium   | $500      | —             | high           | medium | 3      | name.com  |
 | ads.viajes     | available | $37.99    | $37.99        | high           | medium | 3      | namesilo  |
-| shop.viajes    | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo  |
-| aft.viajes     | available | $37.99    | $37.99        | medium         | low    | 3      | namesilo  |
+| college.viajes | premium   | $78.54    | $78.54        | high           | low    | 7      | namesilo  |
+| aft.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
 | fitness.viajes | premium   | $128.70   | $128.70       | high           | low    | 7      | namecheap |
+| ain.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
+| student.viajes | premium   | $78.54    | $78.54        | high           | low    | 7      | namesilo  |
 | ane.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
 | ann.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
+| ate.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
 | atp.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
 | awe.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
-| bay.viajes     | available | $37.99    | $37.99        | medium         | low    | 3      | namesilo  |
+| bae.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
+| bay.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
 | bce.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
+| ben.viajes     | available | $37.99    | $37.99        | high           | medium | 3      | namesilo  |
 | bio.viajes     | available | $37.99    | $37.99        | high           | medium | 3      | namesilo  |
 | bro.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
 | bud.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
-| bum.viajes     | available | $37.99    | $37.99        | medium         | low    | 3      | namesilo  |
-| day.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
-| eve.viajes     | available | $57.98    | —             | high           | medium | 3      | namecheap |
-| fla.viajes     | available | $37.99    | $37.99        | high           | low    | 3      | namesilo  |
-| gym.viajes     | available | $57.98    | —             | high           | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,247 live domains                        |
+| 1,000-row public sample | 16,920 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIAJES One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIAJES One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
