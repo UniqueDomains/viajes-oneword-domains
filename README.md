@@ -1,10 +1,10 @@
-# Available .VIAJES One-Word Domains (27,302)
+# Available .VIAJES One-Word Domains (29,839)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C302%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C839%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .viajes one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,302 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,839 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,302 domains · **Median ask:** $40.06 · **High-demand under $2,500:** 8
+**Public extract:** 1,000 rows · **Live catalog:** 29,839 domains · **Median ask:** $39.88 · **High-demand under $2,500:** 8
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/viajes`
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | adh.viajes       | available | $43.98    | $57.98        | high           | low    | 3      | namecheap        |
 | outlet.viajes    | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| tel.viajes       | premium   | $500      | —             | high           | low    | 3      | name.com         |
-| ane.viajes       | available | $37.99    | $37.99        | high           | low    | 3      | namesilo         |
 | para.viajes      | premium   | $242      | $242          | high           | low    | 4      | namesilo         |
-| apt.viajes       | available | $43.98    | $57.98        | high           | low    | 3      | namecheap        |
+| ane.viajes       | available | $37.99    | $37.99        | high           | low    | 3      | namesilo         |
 | utah.viajes      | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
-| arp.viajes       | available | $37.99    | $37.99        | high           | low    | 3      | namesilo         |
+| apt.viajes       | available | $43.98    | $57.98        | high           | low    | 3      | namecheap        |
 | click.viajes     | premium   | $118.80   | $118.80       | high           | medium | 5      | namesilo         |
-| cba.viajes       | available | $37.99    | $37.99        | high           | low    | 3      | namesilo         |
+| arp.viajes       | available | $37.99    | $37.99        | high           | low    | 3      | namesilo         |
 | dubai.viajes     | premium   | $68.51    | $68.51        | high           | medium | 5      | spaceship        |
-| der.viajes       | available | $43.98    | $57.98        | medium         | low    | 3      | namecheap        |
+| cba.viajes       | available | $37.99    | $37.99        | high           | low    | 3      | namesilo         |
 | adventure.viajes | premium   | $102.67   | $102.67       | high           | medium | 9      | spaceship        |
-| elk.viajes       | available | $37.99    | $37.99        | high           | low    | 3      | namesilo         |
+| der.viajes       | available | $43.98    | $57.98        | medium         | low    | 3      | namecheap        |
 | yoga.viajes      | premium   | —         | —             | high           | low    | 4      | —                |
-| etc.viajes       | available | $37.99    | $37.99        | high           | low    | 3      | namesilo         |
+| doj.viajes       | available | $43.98    | $57.98        | high           | low    | 3      | namecheap        |
 | business.viajes  | premium   | —         | —             | high           | medium | 8      | —                |
+| elk.viajes       | available | $37.99    | $37.99        | high           | low    | 3      | namesilo         |
+| etc.viajes       | available | $37.99    | $37.99        | high           | low    | 3      | namesilo         |
 | fda.viajes       | available | $37.99    | $37.99        | high           | low    | 3      | namesilo         |
-| gag.viajes       | available | $37.99    | $37.99        | high           | low    | 3      | namesilo         |
-| gao.viajes       | available | $37.99    | $37.99        | medium         | low    | 3      | namesilo         |
+| gag.viajes       | available | $35.18    | $35.18        | high           | low    | 3      | spaceship        |
+| gao.viajes       | available | $37.99    | $37.99        | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,302 live domains                        |
+| 1,000-row public sample | 29,839 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 8 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIAJES One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIAJES One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
